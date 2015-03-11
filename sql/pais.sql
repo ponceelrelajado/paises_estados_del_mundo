@@ -21,7 +21,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Base de datos: `cnsld_cnsld`
+-- Base de datos: `paises_estados_del_mundo`
 --
 
 -- --------------------------------------------------------
