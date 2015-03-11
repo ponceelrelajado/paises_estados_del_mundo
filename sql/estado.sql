@@ -6,6 +6,10 @@
 -- Tiempo de generación: 06-03-2015 a las 18:04:40
 -- Versión del servidor: 5.1.68-cll
 -- Versión de PHP: 5.2.6
+--
+-- Autor: Jhonatan Ponce
+-- Git: https://github.com/jhonatanponce/paises_estados_del_mundo.git
+-- Redes Sociales: ponceelrelajado
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
