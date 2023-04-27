@@ -2039,9 +2039,9 @@ INSERT INTO `estado` (`id`, `ubicacionpaisid`, `estadonombre`) VALUES
 (2194, 69, 'Gyeongsangbuk'),
 (2195, 69, 'Gyeongsangnam'),
 (2196, 69, 'Jeju'),
-(2201, 25, 'Delhi');
+(2201, 25, 'Delhi'),
 (2202, 81, 'Región de Los Ríos'),
-(2203, 81, 'Región de Arica y Parinacota'),
+(2203, 81, 'Región de Arica y Parinacota');
 
 --
 -- Restricciones para tablas volcadas
